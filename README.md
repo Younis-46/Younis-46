@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Younis-46
-- 👀 I’m interested in web dev & AI
+- 👀 I’m interested in web dev
 - 🌱 I’m currently learning web dev & game dev
 - 📫 How to reach me : Jobuk46@gmail.com
 
